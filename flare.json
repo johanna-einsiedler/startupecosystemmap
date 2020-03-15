@@ -2,10 +2,10 @@
  "name": "flare",
  "children": [
   {
-   "name": "analytics",
+   "name": "01 Idea Stage",
    "children": [
     {
-     "name": "01 Idea Stage",
+     "name": "Inspire",
      "children": [
       {"name": "AgglomerativeCluster", "size": 3938},
       {"name": "CommunityStructure", "size": 3812},
@@ -14,7 +14,7 @@
      ]
     },
     {
-     "name": "02 Growth Stage",
+     "name": "Educate",
      "children": [
       {"name": "BetweennessCentrality", "size": 3534},
       {"name": "LinkDistance", "size": 5731},
@@ -24,7 +24,7 @@
      ]
     },
     {
-     "name": "optimization",
+     "name": "Validate",
      "children": [
       {"name": "AspectRatioBanker", "size": 7074}
      ]
@@ -32,7 +32,7 @@
    ]
   },
   {
-   "name": "animate",
+   "name": "02 Launch Stage",
    "children": [
     {"name": "Easing", "size": 17010},
     {"name": "FunctionSequence", "size": 5842},
@@ -83,7 +83,7 @@
    ]
   },
   {
-   "name": "display",
+   "name": "03 Growth Stage",
    "children": [
     {"name": "DirtySprite", "size": 8833},
     {"name": "LineSprite", "size": 1732},
@@ -95,19 +95,6 @@
    "name": "flex",
    "children": [
     {"name": "FlareVis", "size": 4116}
-   ]
-  },
-  {
-   "name": "physics",
-   "children": [
-    {"name": "DragForce", "size": 1082},
-    {"name": "GravityForce", "size": 1336},
-    {"name": "IForce", "size": 319},
-    {"name": "NBodyForce", "size": 10498},
-    {"name": "Particle", "size": 2822},
-    {"name": "Simulation", "size": 9983},
-    {"name": "Spring", "size": 2213},
-    {"name": "SpringForce", "size": 1681}
    ]
   },
   {
