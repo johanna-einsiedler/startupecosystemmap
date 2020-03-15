@@ -1,6 +1,6 @@
 {
  "name": "Ecosystem",
- "img": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/opencommons.png?raw=true",
+ "img": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/austrianstartups_logo.png?raw=true",
  "children": [
   {
    "name": "Inspiration",
@@ -9,8 +9,7 @@
       "hero": "OpenCommons",
       "name": "Commons", 
       "link": "http://marvel.com/characters/54/spider-man",
-      "img":  "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/austrianstartups_logo.png
-?raw=true",
+      "img":  "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/opencommons.png?raw=true",
       "size": 40000
     },
     {
