@@ -5,11 +5,11 @@
   {
    "name": "Heroes",
    "children": [
-    {
-      "hero": "Spider-Man",
+       {
+      "hero": "OpenCommons",
       "name": "Peter Benjamin Parker", 
       "link": "http://marvel.com/characters/54/spider-man",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_spiderman.png",
+      "img":  "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/opencommons.png?raw=true",
       "size": 40000
     },
     {
