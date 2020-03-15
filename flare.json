@@ -7,10 +7,8 @@
     {
      "name": "Inspire",
      "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
-      {"name": "CommunityStructure", "size": 3812},
-      {"name": "HierarchicalCluster", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
+      {"name": "Startup Media", "size": 3938},
+      {"name": "Inspirational Events", "size": 3812},
      ]
     },
     {
@@ -62,7 +60,7 @@
    ]
   },
   {
-   "name": "vis",
+   "name": "03 Growth Stage",
    "children": [
     {
      "name": "axis",
