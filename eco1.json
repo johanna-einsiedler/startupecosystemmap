@@ -1,0 +1,353 @@
+{
+ "name": "Startups",
+ "img": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/austrianstartups_logo.png?raw=true",
+ "children": [
+  {
+   "name": "Inspiration",
+   "children": [
+  {
+    "name": "inspiration",
+    "hero": "1millionstartups.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/1millionstartups.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/1millionstartups.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "avenue.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/avenue.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/avenue.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "cocoaheads.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/cocoaheads.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/cocoaheads.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "ECN.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/ECN.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/ECN.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "emersense.gif",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/emersense.gif?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/emersense.gif?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "Factory_300.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/Factory_300.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/Factory_300.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "female_founders.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/female_founders.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/female_founders.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "ideentriebwerkgraz.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/ideentriebwerkgraz.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/ideentriebwerkgraz.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "MU_startup_hub.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/MU_startup_hub.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/MU_startup_hub.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "opencommons.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/opencommons.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/opencommons.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "pioneers.svg",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/pioneers.svg?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/pioneers.svg?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "PRISMA_Logo.svg",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/PRISMA_Logo.svg?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/PRISMA_Logo.svg?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "sena.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/sena.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/sena.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "sic-vienna.svg",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/sic-vienna.svg?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/sic-vienna.svg?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "Skinnovation.jpg",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/Skinnovation.jpg?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/Skinnovation.jpg?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "socialentrepreneurshipforum.jpeg",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/socialentrepreneurshipforum.jpeg?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/socialentrepreneurshipforum.jpeg?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "spektral.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/spektral.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/spektral.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "startuplive-logo.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/startuplive-logo.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/startuplive-logo.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "Startup_Tirol.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/Startup_Tirol.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/Startup_Tirol.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "unimc-logo-200.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/unimc-logo-200.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/unimc-logo-200.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "inspiration",
+    "hero": "wu_gruendungszentrum.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/wu_gruendungszentrum.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/wu_gruendungszentrum.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  }
+	]
+  },
+  {
+   "name": "Media",
+   "children": [
+    {
+  {
+    "name": "media",
+    "hero": "austrianstartups_logo.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/austrianstartups_logo.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/austrianstartups_logo.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "media",
+    "hero": "buero-augenbluten.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/buero-augenbluten.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/buero-augenbluten.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "media",
+    "hero": "derbrutkasten-logo.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/derbrutkasten-logo.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/derbrutkasten-logo.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  } ]
+  },
+  {
+   "name": "Best Practices",
+   "children": [
+    {
+  {
+    "name": "practice",
+    "hero": "austrianstandards.jpg",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/austrianstandards.jpg?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/austrianstandards.jpg?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "practice",
+    "hero": "EURAXESS.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/EURAXESS.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/EURAXESS.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "practice",
+    "hero": "foundersexperts.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/foundersexperts.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/foundersexperts.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "practice",
+    "hero": "google.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/google.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/google.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "practice",
+    "hero": "juanguerr.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/juanguerr.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/juanguerr.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "practice",
+    "hero": "PIER4.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/PIER4.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/PIER4.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "practice",
+    "hero": "SCALE_CITIES.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/SCALE_CITIES.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/SCALE_CITIES.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "practice",
+    "hero": "startupchallenge.png",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/startupchallenge.png?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/startupchallenge.png?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "name": "practice",
+    "hero": "zentrum_angewandte_technologie.gif",
+    "size": 40000,
+    "image": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/zentrum_angewandte_technologie.gif?raw=true",
+    "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/zentrum_angewandte_technologie.gif?raw=true",
+    "": "",
+    "__1": "",
+    "__2": ""
+  }
+]
+  }  
+ ]
+}
+}
