@@ -1,15 +1,16 @@
 {
  "name": "Ecosystem",
- "img": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/marvel.png",
+ "img": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/opencommons.png?raw=true",
  "children": [
   {
-   "name": "Heroes",
+   "name": "Inspiration",
    "children": [
        {
       "hero": "OpenCommons",
       "name": "Commons", 
       "link": "http://marvel.com/characters/54/spider-man",
-      "img":  "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/opencommons.png?raw=true",
+      "img":  "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/austrianstartups_logo.png
+?raw=true",
       "size": 40000
     },
     {
@@ -24,13 +25,6 @@
       "name": "ECN",
       "link": "http://marvel.com/characters/25/hul",
       "img":  "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/ECN.png?raw=true",
-      "size": 40000
-    },
-    {
-      "hero": "Black Widow", 
-      "name": "Natalia 'Natasha' Alianovna Romanova",
-      "link": "http://marvel.com/characters/6/black_widow",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_blackwidow.png",
       "size": 40000
     },
     {
@@ -68,7 +62,7 @@
       "hero": "Austrian Standards",
       "name": "", 
       "link": "http://marvel.com/characters/68/avengers",
-      "img":  "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/austrianstandards.png?raw=true",
+      "img":  "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/austrianstandards.jpg?raw=true",
       "size": 40000
     },
     {
