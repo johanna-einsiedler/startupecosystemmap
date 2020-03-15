@@ -1,5 +1,5 @@
 {
- "name": "marvel",
+ "name": "Ecosystem",
  "img": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/marvel.png",
  "children": [
   {
@@ -7,23 +7,23 @@
    "children": [
        {
       "hero": "OpenCommons",
-      "name": "Peter Benjamin Parker", 
+      "name": "Commons", 
       "link": "http://marvel.com/characters/54/spider-man",
       "img":  "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/opencommons.png?raw=true",
       "size": 40000
     },
     {
-      "hero": "CAPTAIN MARVEL",
-      "name": "Carol Danvers", 
+      "hero": "Entrepreneurship Avenue",
+      "name": "Avenue", 
       "link": "http://marvel.com/characters/9/captain_marvel",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_captainmarvel.png",
+      "img":  "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/avenue.png?raw=true",
       "size": 40000
     },
     {
-      "hero": "HULK", 
-      "name": "Robert Bruce Banner",
-      "link": "http://marvel.com/characters/25/hulk",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_hulk.png",
+      "hero": "Entrepreneurship Center Network", 
+      "name": "ECN",
+      "link": "http://marvel.com/characters/25/hul",
+      "img":  "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/ECN.png?raw=true",
       "size": 40000
     },
     {
@@ -34,139 +34,55 @@
       "size": 40000
     },
     {
-      "hero": "Daredevil", 
-      "name": "Matthew Michael Murdock",
+      "hero": "Female Founders", 
+      "name": "Female Founders",
       "link": "http://marvel.com/characters/11/daredevil",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_daredevil.png",
-      "size": 40000
-    },
-    {
-      "hero": "Wolverine", 
-      "name": "James Howlett",
-      "link": "http://marvel.com/characters/66/wolverine",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_wolverine.png",
-      "size": 40000
-    },
-    {
-      "hero": "Captain America", 
-      "name": "Steven Rogers",
-      "link": "http://marvel.com/characters/8/captain_america",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_captainamerica.png",
-      "size": 40000
-    },
-    {
-      "hero": "Iron Man", 
-      "name": "Anthony Edward 'Tony' Stark",
-      "link": "http://marvel.com/characters/29/iron_man",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_ironman.png",
-      "size": 40000
-    },
-    {
-      "hero": "THOR", 
-      "name": "Thor Odinson",
-      "link": "http://marvel.com/characters/60/thor",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_thor.png",
+      "img":  "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/female_founders.png?raw=true",
       "size": 40000
     }
   ]
   },
   {
-   "name": "Villains",
+   "name": "Media",
    "children": [
     {
-      "hero": "Dr. Doom",
-      "name": "Victor von Doom", 
+      "hero": "Der Brutkasten",
+      "name": "Brutkasten", 
       "link": "http://marvel.com/characters/13/dr_doom",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/drdoom.png",
+      "img":  "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/derbrutkasten-logo.png?raw=true",
       "size": 40000
     },
     {
-      "hero": "Mystique",
-      "name": "Unrevealed", 
+      "hero": "Buero Augenbluten",
+      "name": "augenbluten", 
       "link": "http://marvel.com/characters/1552/mystique",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/mystique.png",
-      "size": 40000
-    },
-    {
-      "hero": "Red Skull",
-      "name": "Johann Shmidt", 
-      "link": "http://marvel.com/characters/1901/red_skull",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/redskull.png",
-      "size": 40000
-    },
-    {
-      "hero": "Ronan",
-      "name": "Ronan", 
-      "link": "http://marvel.com/characters/49/ronan",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/ronan.png",
-      "size": 40000
-    },
-    {
-      "hero": "Magneto",
-      "name": "Max Eisenhardt", 
-      "link": "http://marvel.com/characters/35/magneto",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/magneto.png",
-      "size": 40000
-    },
-    {
-      "hero": "Thanos",
-      "name": "Thanos", 
-      "link": "http://marvel.com/characters/58/thanos",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/thanos.png",
-      "size": 40000
-    },
-    {
-      "hero": "Black Cat",
-      "name": "Felicia Hardy", 
-      "link": "http://marvel.com/characters/271/black_cat",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/blackcat.png",
+      "img":  "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/buero-augenbluten.png?raw=true",
       "size": 40000
     }
    ]
   },
   {
-   "name": "Teams",
+   "name": "Best Practice",
    "children": [
     {
-      "hero": "Avengers",
+      "hero": "Austrian Standards",
       "name": "", 
       "link": "http://marvel.com/characters/68/avengers",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/avengers.png",
+      "img":  "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/austrianstandards.png?raw=true",
       "size": 40000
     },
     {
-      "hero": "Guardians of the Galaxy",
+      "hero": "Google",
       "name": "", 
-      "link": "http://marvel.com/characters/70/guardians_of_the_galaxy",
+      "link": "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/google.png?raw=true",
       "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/gofgalaxy.png",
       "size": 40000
     },
     {
-      "hero": "Defenders",
+      "hero": "Pier 4",
       "name": "", 
       "link": "http://marvel.com/characters/534/defenders",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/defenders.png",
-      "size": 40000
-    },
-    {
-      "hero": "X-Men",
-      "name": "", 
-      "link": "http://marvel.com/characters/71/x-men",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/xmen.png",
-      "size": 40000
-    },
-    {
-      "hero": "Fantastic Four",
-      "name": "", 
-      "link": "http://marvel.com/characters/69/fantastic_four",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/fantasticfour.png",
-      "size": 40000
-    },
-    {
-      "hero": "Inhumans",
-      "name": "", 
-      "link": "http://marvel.com/characters/1040/inhumans",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/inhumans.png",
+      "img":  "https://github.com/johanna-einsiedler/startupecosystemmap/blob/master/img/PIER4.png?raw=true",
       "size": 40000
     }
    ]
